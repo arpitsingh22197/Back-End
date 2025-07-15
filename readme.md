@@ -1,4 +1,4 @@
-# 🎥 VidTube Backend
+# Backend
 
 Build a backend built using **Node.js**, **Express.js**, **MongoDB Atlas**, and **JWT authentication**. It provides secure and scalable APIs for user authentication, video management, likes, comments, and more.
 
